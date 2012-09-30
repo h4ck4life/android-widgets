@@ -1,4 +1,4 @@
-package org.msrv.android.widgets;
+package org.msrv.android.widgets.optionsbar;
 
 import android.app.Activity;
 import android.content.Context;
