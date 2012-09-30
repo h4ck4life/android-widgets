@@ -1,0 +1,4 @@
+android-widgets
+===============
+
+This project will allow Android developers to use custom widgets, from this project, in their projects and focus on the business logic of the application rather than developing and fixing nitty-gritty details of various UI elements and widgets. It is not necessary that this project will always contain full blown widgets, instead it can some time contain only the skeleton (e.g. a collection of interfaces and classes which allows the developers to handle the flow of app elegantly). Hoping that this would help other developers and they won't face the same problems as I faced. :)
